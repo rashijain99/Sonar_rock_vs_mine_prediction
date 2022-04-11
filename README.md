@@ -4,10 +4,11 @@ Logistic Regression with multiple variables (Multiclass Classification)
 
 
 # Libraries Used
-Numpy
-Pandas
-Matplotlib
-Seaborn
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+- sklearn
 
 # Infomation
 Build a Predictive System that can predict the object is either a Rock(R) or Mine(M) on the basis of input data.
